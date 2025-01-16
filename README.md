@@ -1,1 +1,2 @@
 # INforT1Dprogression
+This repository contains the data and code used for the gene expression analysis presented in the paper "Longitudinal monitoring of Type 1 Diabetes progression to disease onset." Run all scripts in the Functions folder first to initialize functions used in the analyses. The "signatureanalysis.R" script should be run before the "progressorscoring.R" or the "scseq_signatureannotation.R" scripts.
